@@ -7,5 +7,5 @@
 - 强硬的自己不是外力打造成的，是由学识武装起来的。
 - 物竞天择，适者生存
 
-[访问主页](https://sunhf-git.github.io/docsify-book/)
+[访问主页](#网址导航)
 [反馈建议](mailto:haifeng.sun@hotmail.com?subject=卷王资料库建议)
