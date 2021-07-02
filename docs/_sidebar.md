@@ -1,5 +1,4 @@
 <!-- docs/_sidebar.md -->
-* [网址导航](/other/nav.md "卷王的精品福利导航")
 * Java
 ** [线程池优化](/java/post-threadpool-tuning.md "线程池的使用")
 * 中间件
