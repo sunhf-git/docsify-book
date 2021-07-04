@@ -2,7 +2,7 @@
 * Java
 ** [线程池优化](/java/post-threadpool-tuning.md "线程池的使用")
 * 中间件
-** [中间件开源资料汇总](/middle/middle-res.md)
+** [中间件开源资料汇总](/middle/middle-res.md "")
 ** [hive快速部署](/middle/hive/post-hive-quickstart.md "快速搭建单机hive")
 ** [mongodb全文索引](/middle/mongodb/post-mongodb-textsearch.md "mongodb全文索引实战")
 ** [Mysql Innodb索引与B+树的原理](/middle/mysql/post-mysql-index-btree.md "Mysql Innodb索引与B+树的原理")
