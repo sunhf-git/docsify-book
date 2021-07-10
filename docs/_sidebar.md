@@ -13,6 +13,8 @@
 * 小工具
 ** [一键创建证书脚本](/shell/onekey-create-cert.md "一键创建证书脚本")
 ** [一键安装JAVA脚本](/shell/onekey-install-java.md "一键安装java8")
+* 笔记
+** [亿级流量电商详情页设计](https://zq99299.github.io/note-book/cache-pdp/#%E7%AC%AC%E4%B8%80%E7%89%88 "亿级流量电商详情页系统实战（第二版）：缓存架构+高可用服务架构+微服务架构")
 * 练习题
 ** [2020 年度八股文](/exam/2020-exam-year.md "2020 年度八股文")
 * 非技术资料
