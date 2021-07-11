@@ -15,7 +15,7 @@
 ** [一键安装JAVA脚本](/shell/onekey-install-java.md "一键安装java8")
 * 笔记
 ** [亿级流量电商详情页设计](https://zq99299.github.io/note-book/cache-pdp/#%E7%AC%AC%E4%B8%80%E7%89%88 "亿级流量电商详情页系统实战（第二版）：缓存架构+高可用服务架构+微服务架构")
-** [C++语法简明笔记](/other/c_note.md "c++简明笔记")
+** [C++基础入门](https://blog.csdn.net/Augenstern_QXL/article/details/117249021 "c++基础入门")
 * 练习题
 ** [2020 年度八股文](/exam/2020-exam-year.md "2020 年度八股文")
 * 非技术资料
