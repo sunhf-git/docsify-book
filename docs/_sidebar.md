@@ -2,6 +2,8 @@
 * Java
 ** [线程池优化](/java/post-threadpool-tuning.md "线程池的使用")
 ** [1_java类在jvm中的存储介质klass](/java/1_java17_klass.md "java类在jvm中的存储介质klass")
+** [2_java类解析机制](/java/2_java17_class_parse.md "2_java类解析机制")
+
 * 中间件
 ** [中间件开源资料汇总](/middle/middle-res.md "")
 ** [hive快速部署](/middle/hive/post-hive-quickstart.md "快速搭建单机hive")
