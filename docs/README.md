@@ -12,7 +12,7 @@
 | [好买基金筛选](https://www.howbuy.com/fundtool/filter.htm)|[财报说 财报分析工具](https://caibaoshuo.com/) |[中金研究报告](http://www.yanjiubaogao.com/)|
 |[好买基金对比](https://www.howbuy.com/fundtool/compare.htm)|[东方财富 行情中心](http://quote.eastmoney.com/center/) |[招商证券研究报告](https://www.newone.com.cn/research)|
 |[京东基金](https://fund.jd.com/)|[巨潮资讯网 财务报表下载](http://www.cninfo.com.cn/new/commonUrl?url=disclosure/list/notice#sseMain) |[国泰君安研究报告](https://www.gtja.com/content/research/industry.html)|
-|[天天基金](http://fund.eastmoney.com/)|- |- |
+|[天天基金](http://fund.eastmoney.com/)|[爱企查](https://aiqicha.baidu.com/) |- |
 
 ## 网站开发工具
 | 在线工具 | 编程工具 | 站长工具 | 服务商 |
