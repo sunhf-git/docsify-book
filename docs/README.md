@@ -21,6 +21,7 @@
 |[国家最新政策](http://www.gov.cn/zhengce/zuixin.htm) | [新华网](http://www.xinhuanet.com/) |
 |- | [中国经济网](http://www.ce.cn/) |
 |- | [人民网](http://www.people.com.cn/) |
+|- | [中国日报网](https://cn.chinadaily.com.cn/) |
 
 ## 网站开发工具
 | 在线工具 | 编程工具 | 站长工具 | 服务商 |
