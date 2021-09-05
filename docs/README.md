@@ -1,10 +1,10 @@
 # 网址导航
 ## 下载资源
 
-| windows | macos | android |
-| ------ | ------ | ------ |
-| [微当软件园](https://www.weidown.com/) | [xclient.info mac免费软件下载](https://xclient.info/) | [apkpure 谷歌商店app下载](https://apkpure.com/cn/app) |
-| [msdn 原版安装盘](http://msdn.itellyou.cn/) | [appked TNT破解软件下载](http://www.macbed.com/) |-  |
+| windows | macos | android | 其他|
+| ------ | ------ | ------ | ------|
+| [微当软件园](https://www.weidown.com/) | [xclient.info mac免费软件下载](https://xclient.info/) | [apkpure 谷歌商店app下载](https://apkpure.com/cn/app) | [4k电影下载](https://www.mini4k.com/movies)
+| [msdn 原版安装盘](http://msdn.itellyou.cn/) | [appked TNT破解软件下载](http://www.macbed.com/) |-  |- |
 
 ## 基金工具
 | 基金 | 股票 | 行业研究报告 |
@@ -14,6 +14,8 @@
 |[京东基金](https://fund.jd.com/)|[巨潮资讯网 财务报表下载](http://www.cninfo.com.cn/new/commonUrl?url=disclosure/list/notice#sseMain) |[国泰君安研究报告](https://www.gtja.com/content/research/industry.html)|
 |[天天基金](http://fund.eastmoney.com/)|[爱企查](https://aiqicha.baidu.com/) |[雪球财经导航](https://xueqiu.com/dh) |
 |-- |[IT橘子](https://itjuzi.com/) | [社会科学研究](http://shxyj.ajcass.org/)
+|-- |-- |[摸鱼行业研报](http://www.woshipm.com/fish/files)
+|-- |-- |[房价网](http://bj.fangjia.com/)
 
 ## 政策相关
 | 政策解读 | 时政新闻 |
