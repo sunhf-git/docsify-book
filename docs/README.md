@@ -42,4 +42,4 @@
 ## 技术博客
 | [有赞技术团队博客](https://tech.youzan.com/) |[美团技术团队博客](https://tech.meituan.com/) |[阿里中间件技术博客](http://jm.taobao.org/)|[腾讯技术团队](https://cloud.tencent.com/developer/teams) |
 | ------ | ------ | ------ | ------ |
-|[小米信息技术团队博客](https://xiaomi-info.github.io/) | [知乎携程技术专栏](https://zhuanlan.zhihu.com/ctriptech) | [mysql数据库内核月报-淘宝](http://mysql.taobao.org/monthly/) | -|
+|[小米信息技术团队博客](https://xiaomi-info.github.io/) | [知乎携程技术专栏](https://zhuanlan.zhihu.com/ctriptech) | [mysql数据库内核月报-淘宝](http://mysql.taobao.org/monthly/) | [南贺神社JVM](https://ceaser.wang/categories/jvm/page/3/)|
